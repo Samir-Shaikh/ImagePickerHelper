@@ -1,5 +1,5 @@
 # ImagePickerHelper
-Picke image from gallery and camera easily.
+Pick image from gallery and camera easily.
 
 Just drag this file in project and use it easily.
 using this its very easy to pick images and video from gallery or camera.
